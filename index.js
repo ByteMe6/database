@@ -4,12 +4,12 @@ import { getDatabase, ref, push, onValue, set } from "https://www.gstatic.com/fi
 const firebaseConfig = {
   apiKey: "AIzaSyBuLWPkTYDkqU9A2-cbzMVNDIVOCR7Ocdw",
   authDomain: "database-66dc4.firebaseapp.com",
+  databaseURL: "https://database-66dc4-default-rtdb.firebaseio.com",
   projectId: "database-66dc4",
   storageBucket: "database-66dc4.firebasestorage.app",
   messagingSenderId: "527263732511",
   appId: "1:527263732511:web:0fc9e919c11138b42c962a",
-  measurementId: "G-9VW4XNBZ1C",
-  databaseURL: "https://database-66dc4-default-rtdb.firebaseio.com"
+  measurementId: "G-9VW4XNBZ1C"
 };
 
 // Initialize Firebase
