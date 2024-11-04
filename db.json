@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "email": "john.doe@example.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 21,
+      "email": "jane.smith@example.com",
+      "phone": "555-5678"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "age": 19,
+      "email": "bob.johnson@example.com",
+      "phone": "555-9012"
+    },
+    {
+      "id": "886f",
+      "name": "Artem Faust",
+      "age": 23,
+      "email": "artemFaust@gmail.com",
+      "phone": "555-5678"
+    },
+    {
+      "id": "31ce",
+      "name": "Petro",
+      "age": 20,
+      "email": "john.doe@example.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": "fc9b",
+      "name": "Yursa",
+      "age": 100,
+      "email": "artem@gmail.com",
+      "phone": "000-5555"
+    },
+    {
+      "id": "4f33",
+      "name": "Yura",
+      "age": 100,
+      "email": "100@100.com",
+      "phone": "100-1000"
+    },
+    {
+      "id": "966a",
+      "name": "arte faust",
+      "age": 203,
+      "email": "фртем",
+      "phone": "00000"
+    },
+    {
+      "id": "ad49",
+      "name": "Олександр Половка",
+      "age": 1,
+      "email": "polovka@loch.com",
+      "phone": "loch-loch"
+    },
+    {
+      "id": "f2fd",
+      "name": "юра",
+      "age": null,
+      "email": "юра",
+      "phone": "юра"
+    },
+    {
+      "id": "9df9",
+      "name": "Tester",
+      "age": null,
+      "email": "loch@tochon",
+      "phone": "lochooooppooook"
+    },
+    {
+      "id": "8bfa",
+      "name": "нгкф",
+      "age": null,
+      "email": "",
+      "phone": ""
+    }
+  ]
+}
